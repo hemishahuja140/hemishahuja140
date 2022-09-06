@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
+My name is Hemish Ahuja and I like coding 😄
 
-<!--
-**hemishahuja140/hemishahuja140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Github stats Top languages
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬  I can speak English, Hindi and R (base + tidyverse) fluently
+🔭  I’m currently working at Macquarie University
+🌱  I’m looking to collaborate on selective breeding projects (particularly crops)
+👩🏻‍💻  Pronouns: He/his
+📫  How to reach me:
+For my github repos, filing an an issue in the corresponding github repo.
+For R help or related, stackoverflow or some other public forum so other people can benefit from your question (please don't email me R questions!).
+For others, email hemish.ahuja1@students.mq.edu.au.
